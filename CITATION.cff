@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+date-released: 2024-04
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Feng"
+  given-names: "Zhangchi"
+- family-names: "Zhang"
+  given-names: "Richong"
+- family-names: "Nie"
+  given-names: "Zhijie"
+title: "Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives"
+url: "https://arxiv.org/abs/2404.11317"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Feng"
+      given-names: "Zhangchi"
+    - family-names: "Zhang"
+      given-names: "Richong"
+    - family-names: "Nie"
+      given-names: "Zhijie"
+  title: "Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives"
+  journal: "CoRR"
+  volume: "abs/2404.11317"
+  year: 2024
+  url: "https://arxiv.org/abs/2404.11317"
+  eprinttype: "arXiv"
+  eprint: "2404.11317"
