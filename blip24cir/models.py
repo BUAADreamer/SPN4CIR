@@ -42,6 +42,8 @@ class CIRPlus(nn.Module):
             self.blip_model.init_stage2(self.tau)
         else:
             self.load_state_dict(saved_state_dict['state_dict'], strict=False)
+            self.blip_model.init_stage2(self.tau)
+            self.load_state_dict(saved_state_dict['state_dict'], strict=False)
         print('model loaded successfully')
 
     def extract_bank_features(self, cirDataset: CIRDataset, device, bank_path, reload_bank=False):
