@@ -12,3 +12,7 @@ decord
 webdataset
 opencv-python
 fairscale
+einops
+scikit-image
+spacy
+pycocoevalcap
