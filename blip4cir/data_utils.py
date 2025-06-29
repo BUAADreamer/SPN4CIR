@@ -309,7 +309,7 @@ class CIRDataset(Dataset):
                     return image_name, image
             elif self.data_name == 'cirr':
                 image_name = list(self.name_to_relpath.keys())[index]
-                image_path = base_path / 'cirr_dataset' / self.name_to_relpath[image_name]
+                image_path = os.path.join(self.data_path, self.name_to_relpath[image_name])
                 image = self.preprocess(PIL.Image.open(image_path))
                 return image_name, image
 

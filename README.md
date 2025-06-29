@@ -58,6 +58,9 @@ The checkpoints of the first stage model are taken from the repo of the original
 
 ```shell
 pip3 install -r requirements.txt
+
+# If you want to use some newer requirements
+pip3 install -r requirements_20250629.txt
 ```
 
 - Download FashionIQ and CIRR datasets from corresponding websites and merge them with data we provided like the
