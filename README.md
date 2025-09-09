@@ -9,14 +9,6 @@
 [![HF Model](https://img.shields.io/badge/🤗-Checkpoints-blue)](https://huggingface.co/BUAADreamer/SPN4CIR)
 [![HF Model](https://img.shields.io/badge/🤗-Datasets-blue)](https://huggingface.co/datasets/BUAADreamer/cir_dataset)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-composed-image-retrieval-via/image-retrieval-on-fashion-iq)](https://paperswithcode.com/sota/image-retrieval-on-fashion-iq?p=improving-composed-image-retrieval-via)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-composed-image-retrieval-via/image-retrieval-on-cirr)](https://paperswithcode.com/sota/image-retrieval-on-cirr?p=improving-composed-image-retrieval-via)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-composed-image-retrieval-via/zero-shot-composed-image-retrieval-zs-cir-on-2)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-2?p=improving-composed-image-retrieval-via)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-composed-image-retrieval-via/zero-shot-composed-image-retrieval-zs-cir-on-1)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-1?p=improving-composed-image-retrieval-via)
-
 </div>
 
 
